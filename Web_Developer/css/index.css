@@ -1,0 +1,12 @@
+a.icon{
+  font-size: 18px !important;
+}
+
+.card {
+  height: 100%;
+}
+
+.ripple {
+  height: 200px;
+  overflow: hidden;
+}
